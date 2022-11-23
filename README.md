@@ -1,6 +1,6 @@
 Hello there this is my profile
 
-- 😁 Hi i'Am Sattya.
+- 😁 Hi i'am Sattya.
 - 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate on whatever
 - 📫 How to reach me: @bngstty
