@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 Hello there this is my profile <br><br>😁 Hi i'am Sattya.<br>🌱 I’m currently learning javascript<br>👯 I’m looking to collaborate on whatever<br>📫 How to reach me: @bngstty<br>😄 Advice : Don't be like physic<br>⚡ Fun fact: Do simple w/ smart think
 
 
