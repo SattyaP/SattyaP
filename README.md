@@ -1,5 +1,5 @@
 # 💫 About Me :
-Hello there, this is my profile <br><br>😁 Hi i'am Sattya.<br>🌱 I’m currently learning javascript<br>👯
+Hello there, this is my profile <br><br>😁 Hi i'am Sattya.<br>🌱 I’m currently learning javascript<br>
 
 
 ## 🌐 Socials:
