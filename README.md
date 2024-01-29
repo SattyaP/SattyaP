@@ -1,7 +1,7 @@
 Hi there 👋
 I am Sattya
 
-I am a junior software developer who has been coding for one years. Usually, I am working on web applications on both sides; frontend and backend. I had many chances to work with different languages and technologies from zero to production.
+I am a ordinary coders who has been coding for one years. Usually, I am working on web applications on both sides; frontend and backend. I had many chances to work with different languages and technologies from zero to production.
 
 Experience in Laravel, Javascript, Node.js, React and many other.
 Curiosity about distributed systems, scaling, automation.
