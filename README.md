@@ -1,3 +1,5 @@
+![Banner](https://github.com/SattyaP/SattyaP/assets/100116558/0800d453-a548-4305-ac87-8a282745ad7f)
+
 Hi there 👋
 I am Sattya
 
