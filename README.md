@@ -1,4 +1,4 @@
-![Banner](https://github.com/SattyaP/SattyaP/assets/100116558/0800d453-a548-4305-ac87-8a282745ad7f)
+![Banner1](https://github.com/SattyaP/SattyaP/assets/100116558/9193d5e2-cdf2-4756-b616-7caefa430d21)
 
 Hi there 👋
 I am Sattya
